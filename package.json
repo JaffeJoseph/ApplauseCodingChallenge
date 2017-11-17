@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "alasql": "^0.4.3",
+    "lodash": "^4.17.4",
     "node": "^9.1.0"
   },
   "repository": {

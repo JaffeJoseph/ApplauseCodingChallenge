@@ -18,7 +18,7 @@
       margin:50px auto;
     }
 
-    input.search {
+    input.search, input.countrySearch {
       margin: 0;
       text-align: center;
       outline:0;
