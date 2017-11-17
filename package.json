@@ -10,8 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.4",
-    "node": "^9.1.0",
-    "json-server": "^0.12.1"
+    "node": "^9.1.0"
   },
   "repository": {
     "type": "git",
